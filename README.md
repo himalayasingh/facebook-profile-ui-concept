@@ -1,3 +1,5 @@
 Facebook Profile UI Concept
 
-Check out the design at: https://codepen.io/himalayasingh/pen/bxoBZZ
+Codepen: https://codepen.io/himalayasingh/pen/bxoBZZ
+
+Github page: https://himalayasingh.github.io/facebook-profile-ui-concept
